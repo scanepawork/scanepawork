@@ -2,7 +2,7 @@
 - 👀 I’m interested in Go language
 - 🌱 I’m currently learning everything I need to learn
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: most of the times people don't understand my jokes
 
 <!---
 scanepawork/scanepawork is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
